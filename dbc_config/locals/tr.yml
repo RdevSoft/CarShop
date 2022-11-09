@@ -1,0 +1,183 @@
+---
+condition_new: New
+condition_used: Kullanılmış
+condition_pre_owned: Ön Sahip olunan Sertifikalı
+condition_recondition: yenilemek
+condition_other: Diğer
+condition_sold: Satıldı
+condition_available: Mevcut
+sign_in: Oturum
+sign_up: Sign Up
+admin_panel: Yönetici Paneli
+logout: Oturum Kapat
+advanced_search: Gelişmiş Arama
+home: Ev
+about: Yaklaşık
+contact: İletişim
+plain_search: Düz Arama
+ignore_this_section: Bu bölümü göz ardı
+location_search: Yer arama
+country: Ülke
+state_province: Eyalet / İl
+city: Şehir
+price: Fiyat
+phone: Telefon
+first_name: Ad
+last_name: Soyadı
+company_name: Firma Adı
+register: Kayıt Ol
+type: Tür
+details: Detaylar
+view_all: Tüm
+order_by: Sıralama
+none: Yok
+terms_and_conditions: Şartlar ve Confition
+reg_success_message: Hesabınız kaydı başarılı olduğunu. Bir e-posta e-posta gönderildi. senin account.Thanks etkinleştirmek için bu e-posta takip edin
+limit: Limit
+usage: Kullanımı
+recover: Kurtar
+oops: Üzgünüz, sayfa bulunamadı
+share_this: Paylaş Bu
+status: Durum
+description: Açıklama
+location_map: Haritada Yeri
+image_gallery: Resim Galerisi
+summary: Özet
+overview: Genel Bakış
+address: Adres
+message: Mesaj
+username: Adı
+about_me: Hakkımda
+type_filters: Tipi Filtreler
+email_subject: E-posta Konusu
+all: Tüm
+deleted: Silinen
+contact_us: Bize
+active: Aktif
+pending: Beklemede
+reported: Dolaylı
+featured_video: Öne Çıkan Video
+embed_video_url: Gömülü video URL
+profile_picture: Profil Resmi
+cars: Arabalar
+car: Araç
+manufacturers: Üreticiler
+car_type: Araç Tipi
+car_manufacturer: Araç Üreticisi
+car_model: Araç Modeli
+year: Yıl
+mileage: Kilometre
+condition: Durum
+specifications: Özellikler
+dimensions: Boyutlar
+reg_no: Kayıt No.
+engine_size: Motor Boyut
+engine_type: Motor Tipi
+exterior_color: Kasa Rengi
+interior_color: İç Renk
+fuel_type: Yakıt Tipi
+safety_rating: Güvenlik Değerlendirme
+standard_seating: standart oturma
+steering_type: Direksiyon Türü
+height: Yükseklik
+width: Genişlik
+length: Uzunluk
+wheelbase: Dingil mesafesi
+track_rear: Parça Arka
+track_front: Parça Ön
+ground_clearance: Yerden Yükseklik
+manufacturer: Üretici
+body_type: Vücut Tipi
+featured_cars: Vitrin Arabaları
+recent_cars: Son Arabalar
+select_manufacturer: Seç Üretici
+select_model: Modeli Seçin
+price_range: Fiyat Aralığı
+select_type: Seç Tür
+model_year: Model Yılı
+filter_vehicles: Filtre Araçlar
+no_cars_found: Hayır Otomobil Bulundu
+dealers: Bayiler
+all_dealers: Satıcıları
+all_cars: Bütün arabalar
+top_dealers: En Satıcıları
+top_cars: En Otomobiller
+dealer_cars: Bayi Otomobil
+dealer_location: Bayi Konumu
+dealer: Bayi
+model: Model
+zip_code: Posta Kodu
+transmission: İletim
+tags: Etiketler
+no_dealers_found: Hayır Satıcıları Bulundu
+dealer_vehicles: Bayi Araçlar
+result: Sonuç
+dealer_not_found: Bayi Bulunamadı
+payment_finish_title: Tam Ödeme
+payment_renew_title: Tam Ödeme
+payment_finish_text: Ödemeniz tamamlandı. Biz paypal onay alınan en kısa sürede hesabınız aktif olacaktır
+payment_renew_text: Ödemeniz tamamlandı. Biz paypal onay alınan en kısa sürede hesabınız yenilenecektir
+payment_cancel_title: Ödeme İptal
+payment_cancel_text: Ödemeniz iptal edilir
+feature_payment_finish: Ödemeniz tamamlandı. En kısa sürede biz paypal onay alma gibi sizin emlak yer alacak.
+feature_payment_cancel: Ödemeniz iptal edilir.
+payment_notification: Bir ödeme yapmak için gidiyoruz. Bir e-posta e-posta gönderilir. O e-postadaki linke istediğiniz zaman bu adıma yedekleyebilirsiniz.
+type_filers: Tipi Filtreler
+view_listing: Görünüm İlan
+car_added_successfully: Araba Başarıyla Eklendi
+email_tracker: E-posta Tracker
+bulk_email: Toplu E-posta
+other_info: Diğer Bilgiler
+basic_info: Temel Bilgiler
+contact_subject: İletişim Konusu
+dealer_panel: Bayi Paneli
+list_your_car: Otomobiliniz Liste
+share: Paylaş
+search: Arama
+all_email_to_dealer: Bayi All-posta
+embed_preview: Sitene Ekle Önizleme
+car_brochure: Araç Broşürü
+pages: Sayfalar
+post_not_found: Hayır Mesaj Bulundu
+blog: Blog
+news: Haberler
+article: Madde
+change_package: Değişim Paketi
+bi_payment_cancel_title: Ödeme İptal Edildi
+mileage_range: Kilometre Aralığı
+select_transmission_type: Seç İletim
+select_car_condition: Seçiniz Durum
+enter_above_text: Üstü Metin girin
+dt_first: Birinci
+dt_last: Son
+dt_next: Sonraki
+dt_prev: Önceki
+dt_no_data: Tablodaki veriler yok
+dt_show_empty: 0 0 girişlere 0 gösteriliyor
+dt_no_match: bulunamadı eşleşen kayıt
+dt_search: Arama
+dt_processing: İşleme ...
+dt_loading: Yükleniyor ...
+dt_info: _TOTAL_ girişlerinin _END_ için _START_ Gösterilen
+dt_filter_info: (_MAX_ toplam girdileri süzülmüş)
+dt_show_entries: Show _MENU_ girdileri
+days: Gün
+posts: Mesajlar
+take_package: Paketi alın
+selected_package: Seçilen paket
+email: E-Posta
+password: Şifre
+confirm_password: Şifreyi onayla
+i_have_read: okudum
+terms_conditon: Şartlar ve koşullar
+signup_with_social_accounts: Sosyal hesapları ile kaydolma
+profile: Profil
+map_api_key: gmap api anahtarı
+show_state_province: Devlet / il göster
+cookie_policy: Çerez politikası
+cookie_policy_alert: Bu site çerezleri kullanmaktadır. Eğer çerez kullanmamızı kabul Bu siteyi kullanmaya devam ederek.
+read_more: Devamını oku
+i_agree: Kabul ediyorum
+car_make: Marka
+ask_for_price: fiyat sorma
+total_view: Totalview

@@ -1,0 +1,183 @@
+---
+condition_new: New
+condition_used: Gebrauchte
+condition_pre_owned: Certified Pre Owned
+condition_recondition: Recondition
+condition_other: Sonstiges
+condition_sold: Verkauft
+condition_available: Verfügbar
+sign_in: Anmelden
+sign_up: Registrieren
+admin_panel: Admin Panel
+logout: Abmelden
+advanced_search: Erweiterte Suche
+home: Home
+about: Über
+contact: Kontakt
+plain_search: Plain Suche
+ignore_this_section: Ignorieren esta sección
+location_search: Standort Suchen
+country: Land
+state_province: Staat / Provinz
+city: Stadt
+price: Preis
+phone: Telefon
+first_name: Vorname
+last_name: Nachname
+company_name: Firmenname
+register:registrieren
+type: Typ
+details: Details
+view_all: Alle anzeigen
+order_by: Im Auftrag
+none: Keine
+terms_and_conditions: Begriffe und confition
+reg_success_message: Ihr Kontoregistrierung ist erfolgreich. Eine E-Mail an Ihre E-Mail gesendet. Folgen Sie bitte die E-Mail Ihre account.Thanks zu aktivieren
+limit: Limit
+usage: Nutzungs
+recover: Wiederherstellen
+oops: Hoppla, Seite nicht gefunden
+share_this: Share This
+status: Status
+description: Beschreibung
+location_map: Lageplan
+image_gallery: Bildergalerie
+summary: Zusammenfassung
+overview: Übersicht
+address: Adresse
+message: Nachricht
+username: Benutzername
+about_me: Über mich
+type_filters: Typ Filter
+email_subject: E-Mail Betreff
+all: Alle
+deleted: Gelöscht
+contact_us: Kontaktieren Sie uns
+active: Aktiv
+pending: Bis
+reported: Berichtet
+featured_video: Featured Video
+embed_video_url: Embedded-Video-URL
+profile_picture: Profil Bild
+cars: Autos
+car: Auto
+manufacturers: Hersteller
+car_type: Fahrzeugtyp
+car_manufacturer: Auto Hersteller
+car_model: Auto-Modell
+year: Jahr
+mileage: Kilometerstand
+condition: Zustand
+specifications: Technische Daten
+dimensions: Maße
+reg_no: Registernummer
+engine_size: Motorgröße
+engine_type: Motortyp
+exterior_color: Außenfarbe
+interior_color: Innenfarbe
+fuel_type: Kraftstofftyp
+safety_rating: Sicherheitsbewertung
+standard_seating: Standard-Bestuhlung
+steering_type: Lenkerart
+height: Höhe
+width: Breite
+length: Länge
+wheelbase: Radstand
+track_rear: Spur hinten
+track_front: Spur vorne
+ground_clearance: Bodenfreiheit
+manufacturer: Hersteller
+body_type: Körpertyp
+featured_cars: Favoriten Autos
+recent_cars: Neue Autos
+select_manufacturer: Hersteller auswählen
+select_model: Modell wählen
+price_range: Preisspanne
+select_type: Typ wählen
+model_year: Modelljahr
+filter_vehicles: Filter Fahrzeuge
+no_cars_found: Keine Autos gefunden
+dealers: Händler
+all_dealers: Alle Maschinen des Anbieters
+all_cars: Alle Autos
+top_dealers: Top-Händler
+top_cars: Top Cars
+dealer_cars: Dealer Autos
+dealer_location: Händlerstandort
+dealer: Händler
+model: Model
+zip_code: Postleitzahl
+transmission: Getriebe
+tags: Tags
+no_dealers_found: Keine Händler gefunden
+dealer_vehicles: Händler Fahrzeuge
+result: Ergebnis
+dealer_not_found: Dealer nicht gefunden
+payment_finish_title: Zahlung abschließen
+payment_renew_title: Zahlung abschließen
+payment_finish_text: Ihre Zahlung ist abgeschlossen. Sobald wir die Bestätigung von PayPal Konto empfangen wird aktiviert
+payment_renew_text: Ihre Zahlung ist abgeschlossen. Sobald wir die Bestätigung von PayPal Konto empfangen wird erneuert
+payment_cancel_title: Zahlung stornieren
+payment_cancel_text: Ihre Zahlung wird Abgebrochen
+feature_payment_finish: Ihre Zahlung ist abgeschlossen. Sobald wir die Bestätigung von PayPal empfangen, wird Ihre Immobilien sehen sein.
+feature_payment_cancel: Ihre Zahlung wird abgebrochen.
+payment_notification: Sie werden eine Zahlung zu leisten. Eine E-Mail an Ihre E-Mail gesendet. Sie können über den Link auf diese E-Mail auf diese jederzeit zurücktreten.
+type_filers: Typ Filter
+view_listing: Einträge anzeigen
+car_added_successfully: Auto Erfolgreich
+email_tracker: E-Mail-Verfolger
+bulk_email: Bulk Email
+other_info: Weitere Infos
+basic_info: Basisinformationen
+contact_subject: Kontakt Thema
+dealer_panel: Dealer-Panel
+list_your_car: Führen Sie Ihr Auto
+share: Teilen
+search: Suche
+all_email_to_dealer: Alle E-Mail an Händler
+embed_preview: eingefügt Vorschau
+car_brochure: Auto-Broschüre
+pages: Seiten
+post_not_found: Kein Beitrag gefunden
+blog: Blog
+news: Nachrichten
+article: Artikel
+change_package: Änderungspaket
+bi_payment_cancel_title: Zahlung Cancelled
+mileage_range: gefahrene Strecke
+select_transmission_type: Select Transmission
+select_car_condition: Zustand auswählen
+enter_above_text: Bitte geben Sie oben Text
+dt_first: Erste
+dt_last: Nur noch wenige
+dt_next: Next
+dt_prev: Zurück
+dt_no_data: Keine verfügbaren Daten in Tabelle
+dt_show_empty: 0 bis 0 von 0 Einträge angezeigt
+dt_no_match: Keine passenden Datensätze gefunden
+dt_search: Suchen
+dt_processing: Verarbeitung ...
+dt_loading: Laden ...
+dt_info: Zeige _start_ bis _END_ von _TOTAL_ Einträge
+dt_filter_info: (gefiltert aus _MAX_ Gesamt Einträge)
+dt_show_entries: Show _MENU_ Einträge
+days: Tage
+posts: Beiträge
+take_package: Nehmen Sie Paket
+selected_package: Ausgewählte Paket
+email: E-Mail
+password: Passwort
+confirm_password: Passwort bestätigen
+i_have_read: Ich habe gelesen, die
+terms_conditon: AGB
+signup_with_social_accounts: Mit SIGNUP sozialen Konten
+profile: Profil
+map_api_key: Gmap api Schlüssel
+show_state_province: Zeigen Staat / Provinz
+cookie_policy: Plätzchen-Politik
+cookie_policy_alert: Diese Website benutzt Cookies. Durch die Fortsetzung dieser Website erklären Sie sich unsere Verwendung von Cookies einverstanden zu verwenden.
+read_more: Lesen Sie mehr
+i_agree: Ich bin damit einverstanden
+car_make: Stellen
+ask_for_price: Preisanfrage
+total_view: Totalview 

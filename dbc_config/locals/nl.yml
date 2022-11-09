@@ -1,0 +1,183 @@
+---
+condition_new: New
+condition_used: Gebruikt
+condition_pre_owned: Certified Pre Owned
+condition_recondition: Recondition
+condition_other: Overige
+condition_sold: Verkocht
+condition_available: Beschikbaar
+sign_in: Inloggen
+sign_up: Sign Up
+admin_panel: Admin Panel
+logout: Afmelden
+advanced_search: Advanced Search
+home: Home
+about: Over
+contact: Contact
+plain_search: Plain Zoeken
+ignore_this_section: Negeer deze sectie
+location_search: Locatie Zoeken
+country: Land
+state_province: Staat / Provincie
+city: Stad
+price: Prijs
+phone: Telefoon
+first_name:Voornaam
+last_name: Achternaam
+company_name: Naam Bedrijf
+register:
+type: Type
+details: Details
+view_all: Alles weergeven
+order_by: Door Bestel
+none: Geen
+terms_and_conditions: Algemene confition
+reg_success_message: Uw account registratie is succesvol. Een e-mail is verzonden naar uw e-mail. Volg die e-mail naar uw account.Thanks activeren
+limit: Limit
+usage: Gebruik
+recover: Recover
+oops: Oeps, pagina niet gevonden
+share_this: Share This
+status: Status
+description: Beschrijving
+location_map: Location Map
+image_gallery: Fotogalerij
+summary: Samenvatting
+overview: Overzicht
+address: Adres
+message: Bericht
+username: gebruikersnaam
+about_me: Over mij
+type_filters: Type Filters
+email_subject: E-mail Onderwerp
+all: Alle
+deleted: Verwijderde
+contact_us: Contact
+active: Actief
+pending: In afwachting van
+reported: Gerapporteerde
+featured_video: Featured Video
+embed_video_url: Embeded Video Url
+profile_picture: Profiel Picture
+cars: Auto's
+car: Auto
+manufacturers: Fabrikanten
+car_type: Type auto
+car_manufacturer: Autofabrikant
+car_model: Auto Model
+year: Jaar
+mileage:kilometerstand Kilometer
+condition: Staat
+specifications: Specificaties
+dimensions: Afmetingen
+reg_no: Registration No.
+engine_size: Motor Size
+engine_type: Motor Type
+exterior_color: carrosseriekleur
+interior_color: Kleur interieur
+fuel_type: Brandstof
+safety_rating: Safety Rating
+standard_seating: Standard Seating
+steering_type: Steering Type
+height: Hoogte
+width: breedte
+length: Lengte
+wheelbase: Wielbasis
+track_rear: Track Rear
+track_front: Track Voorzijde
+ground_clearance: Bodemvrijheid
+manufacturer: Fabrikant
+body_type: Body Type
+featured_cars: Featured Cars
+recent_cars: Nieuw Cars
+select_manufacturer: Selecteer Fabrikant
+select_model: Select Model
+price_range: Prijsklasse
+select_type: Select Type
+model_year: Modeljaar
+filter_vehicles: Filter Vehicles
+no_cars_found: Geen auto's gevonden
+dealers: Dealers
+all_dealers: verdelers
+all_cars: Alle auto's
+top_dealers: Top Dealers
+top_cars: Top Cars
+dealer_cars: Dealer Cars
+dealer_location: Dealer Location
+dealer: Dealer
+model: Model
+zip_code: Zip Code
+transmission: Transmissie
+tags: Tags
+no_dealers_found: geen handelaren gevonden
+dealer_vehicles: Dealer Vehicles
+result: Resultaat
+dealer_not_found: Dealer niet gevonden
+payment_finish_title: Betaling Compleet
+payment_renew_title: Betaling Compleet
+payment_finish_text: Uw betaling is voltooid. Zodra we kregen de bevestiging van PayPal uw account wordt geactiveerd
+payment_renew_text: Uw betaling is voltooid. Zodra we kregen de bevestiging van PayPal uw account wordt verlengd
+payment_cancel_title: Betaling Annuleren
+payment_cancel_text: Uw betaling is geannuleerd
+feature_payment_finish: Uw betaling is voltooid. Zodra wij ontvangen een bevestiging van PayPal, zal uw nalatenschap te zien zijn.
+feature_payment_cancel: Uw betaling is geannuleerd.
+payment_notification: U gaat om een ​​betaling te verrichten. Een e-mail wordt verzonden naar uw e-mail. U kunt terug naar deze stap op elk moment van de link in de e-mail.
+type_filers: Type Filters
+view_listing: View Listing
+car_added_successfully: Car succesvol toegevoegd
+email_tracker: E-Tracker
+bulk_email: Bulk Email
+other_info: Overige info
+basic_info: Basisinformatie
+contact_subject: Contact Onderwerp
+dealer_panel: Dealer Panel
+list_your_car: Lijst uw auto
+share: Share
+search: Zoeken
+all_email_to_dealer: Alle E-mail naar Dealer
+embed_preview: insluiten Voorbeeld
+car_brochure: Auto Brochure
+pages: Pagina's
+post_not_found: Nee Geplaatst gevonden
+blog: Blog
+news: Nieuws
+article: Artikel
+change_package: Change Package
+bi_payment_cancel_title: Betaling geannuleerd
+mileage_range: Kilometer Range
+select_transmission_type: Select Transmission
+select_car_condition: Selecteer Voorwaarde
+enter_above_text: Voer bovenstaande tekst
+dt_first: First
+dt_last: Last
+dt_next: Next
+dt_prev: Vorige
+dt_no_data: Er zijn geen gegevens beschikbaar in tabel
+dt_show_empty: Toont 0-0 van 0 inzendingen
+dt_no_match: Er zijn geen records die overeenstemmen
+dt_search: Zoeken
+dt_processing: Verwerking ...
+dt_loading: Loading ...
+dt_info: Resultaat _START_ om _END_ van _TOTAL_ inzendingen
+dt_filter_info: (gefilterd van _MAX_ totaal inzendingen)
+dt_show_entries: entries Show _MENU_
+days: Days
+posts: Berichten
+take_package: Take-pakket
+selected_package: Geselecteerde pakket
+email: E-mail
+password: Wachtwoord
+confirm_password: Bevestig wachtwoord
+i_have_read: Ik heb gelezen de
+terms_conditon: Algemene voorwaarden
+signup_with_social_accounts: SignUp met sociale accounts
+profile: Profiel
+map_api_key: Gmap api key
+show_state_province: Show staat / provincie
+cookie_policy: beleid Cookie
+cookie_policy_alert: Deze website maakt gebruik van cookies. Door te blijven deze site gaat u akkoord met ons gebruik van cookies.
+read_more: Lees meer
+i_agree: Ik ben het eens
+car_make: Maak
+ask_for_price: Vraag naar de prijs
+total_view: Totalview

@@ -1,0 +1,183 @@
+---
+condition_new: Nueva
+condition_used: Usado
+condition_pre_owned: usados ​​certificados
+condition_recondition: Reacondicionamiento
+condition_other: Otros
+condition_sold: Vendido
+condition_available: Disponible
+sign_in: Iniciar sesión
+sign_up: Registrarse
+admin_panel: Panel de administración
+logout: Salir
+advanced_search: Búsqueda Avanzada
+home: Hogar
+about: sobre
+contact: Contacto
+plain_search: Llanura Buscar
+ignore_this_section: No haga caso de esta sección
+location_search: Buscar una localidad
+country: País
+state_province: Estado / Provincia
+city: Ciudad
+price: Precio
+phone: Teléfono
+first_name:nombre
+last_name:Apellido
+company_name: Nombre de la empresa
+register: Registrarse
+type: Tipo
+details:Detalles de la descarga
+view_all: Ver todos
+order_by: Orden
+none: Ninguno
+terms_and_conditions: Términos y confition
+reg_success_message: Su registro de la cuenta es exitosa. Un correo electrónico fue enviado a su correo electrónico. Por favor, siga que el correo electrónico para activar sus account.Thanks
+limit: Límite
+usage: Uso
+recover: Recuperar
+oops: Vaya, no se encontró la página
+share_this: Compartir Este
+status: Estado
+description: Descripción
+location_map: Mapa de ubicación
+image_gallery: Galería de imágenes
+summary: Resumen
+overview: Resumen de
+address: Dirección
+message: Mensaje
+username: Nombre de usuario
+about_me: Acerca de mí
+type_filters: Tipo Filtros
+email_subject: Asunto del correo
+all: todo
+deleted: Suprimido
+contact_us: Contacte con nosotros
+active: Activo
+pending: Pendiente
+reported: Correspondiente
+featured_video: Video del día
+embed_video_url: Embeded URL de video
+profile_picture: Imagen
+cars: Coches
+car:de coches
+manufacturers:
+car_type: Tipo de Auto
+car_manufacturer: Fabricante de coches
+car_model: Modelo del coche
+year: Año
+mileage:
+condition: Condición
+specifications: Especificaciones
+dimensions: Dimensiones
+reg_no: N ° de registro
+engine_size: Tamaño del motor
+engine_type: Tipo de motor
+exterior_color: Color Exterior
+interior_color: Color Interior
+fuel_type: Tipo de combustible
+safety_rating: Clasificación de seguridad
+standard_seating: Norma Asientos
+steering_type: Tipo de dirección
+height: Altura
+width: Ancho
+length: Longitud
+wheelbase: Distancia entre ejes
+track_rear: vía trasera
+track_front: Frente Pista
+ground_clearance: Distancia al suelo
+manufacturer: Fabricante
+body_type: Tipo de Cuerpo
+featured_cars: Coches destacados
+recent_cars: Coches recientes
+select_manufacturer: Selecto
+select_model: Seleccionar modelo
+price_range: Escala de precios
+select_type: Seleccionar el tipo de
+model_year: Modelo Año
+filter_vehicles: Vehículos de filtro
+no_cars_found: No se han encontrado coches
+dealers: Distribuidores
+all_dealers: Todos los Distribuidores
+all_cars: Todos los coches
+top_dealers: Los principales concesionarios
+top_cars: Top Cars
+dealer_cars: Concesionario Coches
+dealer_location: Ubicación del distribuidor
+dealer:
+model: Modelo
+zip_code: Código Postal
+transmission: Transmisión
+tags: Etiquetas
+no_dealers_found: No se han encontrado Distribuidores
+dealer_vehicles: Vehículos del distribuidor
+result: Resultado
+dealer_not_found: Concesionario no encontrado
+payment_finish_title: Pago Completo
+payment_renew_title: Pago Completo
+payment_finish_text: Su pago se ha completado. Tan pronto como recibimos la confirmación de PayPal se activará su cuenta
+payment_renew_text: Su pago se ha completado. Tan pronto como recibimos la confirmación de PayPal será renovado su cuenta
+payment_cancel_title: Pago Cancelar
+payment_cancel_text: Su pago se cancela
+feature_payment_finish: Su pago se ha completado. Tan pronto como recibamos la confirmación de PayPal, se presentará su patrimonio.
+feature_payment_cancel: Su pago se cancela.
+payment_notification: Usted va a hacer un pago. Un correo electrónico es enviado a su correo electrónico. Puede hacer una copia de este paso en cualquier momento desde el enlace de ese correo electrónico.
+type_filers: Tipo Filtros
+view_listing: Ver entradas
+car_added_successfully: coches agregado con éxito
+email_tracker: Correo electrónico Rastreador
+bulk_email: Correo electrónico masivo
+other_info: Otra Información
+basic_info: Información Básica
+contact_subject: Contacto Asunto
+dealer_panel: Grupo Concesionario
+list_your_car: Lista de su coche
+share: Comparte
+search: Buscar
+all_email_to_dealer: todo el correo a distribuidor
+embed_preview: Insertar Vista previa
+car_brochure: Folleto de coches
+pages: Páginas
+post_not_found: Sin cargo se encontró
+blog:
+news: Noticias
+article: Artículo
+change_package: Paquete de Cambios
+bi_payment_cancel_title: Pago cancelado
+mileage_range: Rango Kilometraje
+select_transmission_type: Seleccione una Transmisión
+select_car_condition: Seleccionar Condición
+enter_above_text: Introduzca el texto por encima
+dt_first: Primera
+dt_last: Último
+dt_next: Siguiente
+dt_prev: Anterior
+dt_no_data: No hay datos disponibles en la tabla
+dt_show_empty: Mostrando 0 a 0 de 0 entradas
+dt_no_match: No existen registros que coincidan encontrados
+dt_search: Buscar
+dt_processing: Procesamiento ...
+dt_loading: Cargando ...
+dt_info: Mostrando _START_ a _END_ de entradas _TOTAL_
+dt_filter_info: (filtrado de las entradas totales _MAX_)
+dt_show_entries: Mostrar Entradas _MENU_
+days: Días
+posts: Mensajes
+take_package: Tome paquete
+selected_package: Selected paquete
+email: Correo electrónico
+password: Contraseña
+confirm_password: Confirmar contraseña
+i_have_read: He leído el
+terms_conditon: Términos y condiciones
+signup_with_social_accounts: Registrar con cuentas sociales
+profile:
+map_api_key: clave de API Gmap
+show_state_province: Mostrar estado / provincia
+cookie_policy: política de cookies
+cookie_policy_alert: Este sitio utiliza cookies. Al continuar utilizando este sitio usted acepta el uso de cookies.
+read_more: Leer más
+i_agree: Estoy de acuerdo
+car_make: Hacer
+ask_for_price: Consultar precio
+total_view: Totalview

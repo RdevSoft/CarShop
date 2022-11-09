@@ -1,0 +1,183 @@
+---
+condition_new: جديد
+condition_used: مستعملة
+condition_pre_owned: مصدق قبل المملوكة
+condition_recondition: رمم
+condition_other: أخرى
+condition_sold: مباعه
+condition_available: متوفر
+sign_in: تسجيل الدخول
+sign_up: اشترك
+admin_panel: لوحة الادارة
+logout: خروج
+advanced_search: البحث المتقدم
+home: المنزل
+about: حول
+contact: الاتصال
+plain_search: عادي البحث
+ignore_this_section: تجاهل هذا القسم
+location_search: موقع البحث عن
+country:
+state_province: الدولة / مقاطعة
+city: مدينة
+price: السعر
+phone: الهاتف
+first_name: الاسم الأول
+last_name: اسم العائلة
+company_name: اسم الشركة
+register: التسجيل
+type: نوع
+details: تفاصيل
+view_all: عرض جميع
+order_by: الترتيب حسب
+none: لا شيء
+terms_and_conditions: شروط وConfition
+reg_success_message: تسجيل حسابك ناجحا. تم إرسال رسالة إلكترونية إلى البريد الإلكتروني الخاص بك. يرجى اتباع هذا البريد الإلكتروني لتفعيل account.Thanks الخاص بك
+limit: الحد
+usage: الاستخدام
+recover: استرجاع
+oops: عفوا، لم يتم العثور على الصفحة
+share_this: حصة هذا
+status: الحالة
+description: الوصف
+location_map: خريطة الموقع
+image_gallery: معرض الصور
+summary: ملخص
+overview: نظرة عامة
+address: عنوان
+message: رسالة
+username: اسم المستخدم
+about_me: معلومات عني
+type_filters: نوع الفلاتر
+email_subject: موضوع الرسالة
+all: كل
+deleted: المحذوفة
+contact_us: اتصل بنا
+active: نشاطات
+pending: في انتظار
+reported: المبلغ
+featured_video: المميز الفيديو
+embed_video_url: مطعم ب فيديو رابط
+profile_picture: صورة الملف الشخصي
+cars: سيارات
+car: سيارة
+manufacturers: المصنعون
+car_type: نوع السيارة
+car_manufacturer: السيارات الصانع
+car_model: موديل السيارة
+year: السنة
+mileage: الأميال
+condition: حالة
+specifications: المواصفات
+dimensions: الأبعاد
+reg_no: رقم التسجيل
+engine_size: حجم المحرك
+engine_type: نوع المحرك
+exterior_color: اللون الخارجي
+interior_color: اللون الداخلي
+fuel_type: نوع الوقود
+safety_rating: تقييم السلامة
+standard_seating: الجلوس قياسي
+steering_type: نوع التوجيه
+height: الطول
+width: العرض
+length: طول
+wheelbase: قاعدة العجلات
+track_rear: المسار الخلفي
+track_front: المسار الجبهة
+ground_clearance: الخلوص الأرضي
+manufacturer: الصانع
+body_type: نوع الجسم
+featured_cars: سيارات مميزة
+recent_cars: سيارات الحديثة
+select_manufacturer: اختر الصانع
+select_model: تحديد نموذج
+price_range: النطاق السعري
+select_type: حدد نوع
+model_year: نموذج السنة
+filter_vehicles: تصفية المركبات
+no_cars_found: لا سيارات تم العثور عليها
+dealers: تجار
+all_dealers: جميع تجار
+all_cars: جميع السيارات
+top_dealers: أعلى تجار
+top_cars: سيارات الأعلى
+dealer_cars: تاجر سيارات
+dealer_location: تاجر الموقع
+dealer: تاجر
+model: نموذج
+zip_code: الرمز البريدي
+transmission: نقل
+tags: الكلمات
+no_dealers_found: لا تجار العثور على
+dealer_vehicles: تاجر سيارات
+result: النتيجة
+dealer_not_found: تاجر لم يتم العثور على
+payment_finish_title: الدفع الكامل
+payment_renew_title: الدفع الكامل
+payment_finish_text: اكتملت عملية الدفع. في أقرب وقت ونحن تلقي تأكيد من باي بال سوف يتم تفعيل حسابك
+payment_renew_text: اكتملت عملية الدفع. في أقرب وقت ونحن تلقي تأكيد من باي بال سيتم تجديد حسابك
+payment_cancel_title: الدفع إلغاء
+payment_cancel_text: تم إلغاء الدفع
+feature_payment_finish: اكتملت عملية الدفع. بأسرع ما تلقي تأكيد من باي بال، وسيتم عرض العقارات الخاصة بك.
+feature_payment_cancel: يتم إلغاء الدفع الخاص بك.
+payment_notification: أنت تسير لجعل الدفع. يتم إرسال بريد إلكتروني إلى البريد الإلكتروني الخاص بك. يمكنك نسخ هذه الخطوة في أي وقت من الارتباط على هذا البريد الإلكتروني.
+type_filers: نوع الفلاتر
+view_listing: عرض الموقع
+car_added_successfully: السيارات واضاف بنجاح
+email_tracker: البريد الإلكتروني المقتفي
+bulk_email: البريد الإلكتروني السائبة
+other_info: معلومات أخرى
+basic_info: معلومات أساسية
+contact_subject: الاتصال الموضوع
+dealer_panel: تاجر لوحة
+list_your_car: قائمة سيارتك
+share: حصة
+search: بحث
+all_email_to_dealer: كل رسالة إلى البائع
+embed_preview: تضمين معاينة
+car_brochure: كتيب السيارة
+pages: الصفحات
+post_not_found: لا المشاركة وجدت
+blog: مدونة
+news: أخبار
+article: المادة
+change_package: تغيير حزمة
+bi_payment_cancel_title: الدفع ملغاة
+mileage_range: المدى الأميال
+select_transmission_type: اختر نقل
+select_car_condition: اختر الحالة
+enter_above_text: أدخل النص أعلاه
+dt_first: أولا
+dt_last: الأخير
+dt_next: التالي
+dt_prev: السابق
+dt_no_data: لا توجد بيانات في الجدول
+dt_show_empty: عرض 0-0 من 0 مقالات
+dt_no_match: لا سجلات مطابقة وجدت
+dt_search: البحث
+dt_processing: تجهيز ...
+dt_loading: تحميل ...
+dt_info: عرض _START_ إلى _END_ من إدخالات _TOTAL_
+dt_filter_info: (تصفيتها من مجموع المقالات _MAX_)
+dt_show_entries: إدخالات مشاهدة _MENU_
+days: يوم
+posts: المشاركات
+take_package: خذ حزمة
+selected_package: اختيار حزمة
+email: البريد الإلكتروني
+password: كلمة المرور
+confirm_password: تأكيد كلمة المرور
+i_have_read: لقد قرأت
+terms_conditon: الشروط والأحكام
+signup_with_social_accounts: الاشتراك مع الحسابات الاجتماعية
+profile:
+map_api_key: GMAP مفتاح API
+show_state_province: عرض الدولة / المقاطعة
+cookie_policy: سياسة كوكي
+cookie_policy_alert: هذا الموقع يستخدم الكوكيز. من خلال الاستمرار في استخدام هذا الموقع، فإنك توافق على استخدامنا لملفات تعريف الارتباط.
+read_more: اقرأ المزيد
+i_agree: أوافق
+car_make: اصنع
+ask_for_price: اسأل عن سعر
+total_view: Totalview

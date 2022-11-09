@@ -1,0 +1,185 @@
+---
+condition_new: New
+condition_used: Used
+condition_pre_owned: Certified Pre Owned
+condition_recondition: Recondition
+condition_other: Other
+condition_sold: Sold
+condition_available: Available
+sign_in: Sign In
+sign_up: Sign Up
+admin_panel: Admin Panel
+logout: Logout
+advanced_search: Advanced Search
+home: Home
+about: About
+contact: Contact
+plain_search: Plain Search
+ignore_this_section: Ignore this section
+location_search: Location Search
+country: Country
+state_province: State/Province
+city: City
+price: Price
+phone: Phone
+first_name: First Name
+last_name: Last Name
+company_name: Company Name
+register: Register
+type: Type
+details: Details
+view_all: View All
+order_by: Order By
+none: None
+terms_and_conditions: Terms and Confition
+reg_success_message: Your account registration is successfull. An email was sent to your email. Please follow that email to activate your account.Thanks
+limit: Limit
+usage: Usage
+recover: Recover
+oops: Oops, page not found
+share_this: Share This
+status: Status
+description: Description
+location_map: Location Map
+image_gallery: Image Gallery
+summary: Summary
+overview: Overview
+address: Address
+message: Message
+username: Username
+about_me: About Me
+type_filters: Type Filters
+email_subject: Email Subject
+all: All
+deleted: Deleted
+contact_us: Contact Us
+active: Active
+pending: Pending
+reported: Reported
+featured_video: Featured Video
+embed_video_url: Embeded Video Url
+profile_picture: Profile Picture
+cars: Cars
+car: Car
+manufacturers: Manufacturers
+car_type: Car Type
+car_manufacturer: Car Manufacturer
+car_model: Car Model
+year: Year
+mileage: Mileage
+condition: Condition
+specifications: Specifications
+dimensions: Dimensions
+reg_no: Registration No.
+engine_size: Engine Size
+engine_type: Engine Type
+exterior_color: Exterior Color
+interior_color: Interior Color
+fuel_type: Fuel Type
+safety_rating: Safety Rating
+standard_seating: Standard Seating
+steering_type: Steering Type
+height: Height
+width: Width
+length: Length
+wheelbase: Wheelbase
+track_rear: Track Rear
+track_front: Track Front
+ground_clearance: Ground Clearance
+manufacturer: Manufacturer
+body_type: Body Type
+featured_cars: Featured Cars
+recent_cars: Recent Cars
+select_manufacturer: Select Manufacturer
+select_model: Select Model
+price_range: Price Range
+select_type: Select Type
+model_year: Model Year
+filter_vehicles: Filter Vehicles
+no_cars_found: No Cars Found
+dealers: Dealers
+all_dealers: All Dealers
+all_cars: All cars
+top_dealers: Top Dealers
+top_cars: Top Cars
+dealer_cars: Dealer Cars
+dealer_location: Dealer Location
+dealer: Dealer
+model: Model
+zip_code: Zip Code
+transmission: Transmission
+tags: Tags
+no_dealers_found: No Dealers Found
+dealer_vehicles: Dealer Vehicles
+result: Result
+dealer_not_found: Dealer not Found
+payment_finish_title: Payment Complete
+payment_renew_title: Payment Complete
+payment_finish_text: Your payment is complete. As soon as we recieved confirmation from paypal your account will be activated
+payment_renew_text: Your payment is complete. As soon as we recieved confirmation from paypal your account will be renewed
+payment_cancel_title: Payment Cancel
+payment_cancel_text: Your payment is canceled
+feature_payment_finish: Your payment is complete. As soon as we recieve confirmation from paypal, your estate will be featured.
+feature_payment_cancel: Your payment is canceled.
+payment_notification: You are going to make an payment. A email is sent to your email. You can back to this step anytime from the link on that email.
+type_filers: Type Filters
+view_listing: View Listing
+car_added_successfully: Car Added Successfully
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+other_info: Other Info
+basic_info: Basic Info
+contact_subject: Contact Subject
+dealer_panel: Dealer Panel
+list_your_car: List Your Car
+share: Share
+search: Search
+all_email_to_dealer: All Email To Dealer
+embed_preview: Embed Preview
+car_brochure: Car Brochure
+pages: Pages
+post_not_found: No Post Found
+blog: Blog
+news: News
+article: Article
+change_package: Change Package
+bi_payment_cancel_title: Payment Cancelled
+mileage_range: Mileage Range
+select_transmission_type: Select Transmission
+select_car_condition: Select Condition
+enter_above_text: Enter Above Text
+dt_first: First
+dt_last: Last
+dt_next: Next
+dt_prev: Previous
+dt_no_data: No data available in table
+dt_show_empty: Showing 0 to 0 of 0 entries
+dt_no_match: No matching records found
+dt_search: Search
+dt_processing: Processing...
+dt_loading: Loading...
+dt_info: Showing _START_ to _END_ of _TOTAL_ entries
+dt_filter_info: (filtered from _MAX_ total entries)
+dt_show_entries: Show _MENU_ entries
+days: Days
+posts: Posts
+take_package: Take package
+selected_package: Selected package
+email: Email
+password: Password 
+confirm_password: Confirm password
+i_have_read: I've read the
+terms_conditon: Terms and conditions
+signup_with_social_accounts: SIgnup with social accounts
+profile: Profile
+map_api_key: Gmap api key
+show_state_province: Show state/province
+cookie_policy: Cookie policy
+cookie_policy_alert: This site uses cookies. By continuing to use this site you agree to our use of cookies.
+read_more: Read more
+i_agree: I agree
+car_make: Make
+ask_for_price: Ask for price
+total_view: Total view
+type_something: Type something
+css_compression: Css Compression

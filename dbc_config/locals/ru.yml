@@ -1,0 +1,183 @@
+---
+condition_new: Новый
+condition_used: Используется
+condition_pre_owned: Сертифицированный Pre Подержанный
+condition_recondition: Восстановительный
+condition_other: Другое
+condition_sold: Продано
+condition_available: Доступен
+sign_in: Вход
+sign_up: Регистрация
+admin_panel: Панель администратора
+logout: выход из системы
+advanced_search: Расширенный поиск
+home: Главная
+about: О
+contact: Контакт
+plain_search: Plain Поиск
+ignore_this_section: Игнорировать этот раздел
+location_search: Поиск по местоположению
+country: Страна
+state_province: Штат / провинция
+city: Город
+price: Цена
+phone: Телефон
+first_name: Имя
+last_name: Фамилия
+company_name: Название компании
+register: Регистрация
+type: Тип
+details: Подробности
+view_all: Показать все
+order_by: Сортировать по
+none: Нет
+terms_and_conditions: Термины и Confition
+reg_success_message: регистрация Ваша учетная запись успешна. Письмо было отправлено на ваш электронный адрес. Пожалуйста, следуйте этой электронной почте, чтобы активировать account.Thanks
+limit: Предел
+usage: Использование
+recover: Восстановить
+oops: К сожалению, страница не найдена
+share_this: Поделиться этой
+status:
+description: Описание
+location_map: Location Map
+image_gallery: Галерея изображений
+summary: резюме
+overview: Обзор
+address: Адрес
+message: Сообщение
+username: Имя пользователя
+about_me: Обо мне
+type_filters: Фильтры типа
+email_subject: Тема электронного письма
+all: Все
+deleted: Удаленные
+contact_us: Обратная связь
+active: Активный
+pending: В ожидании
+reported: Сообщается,
+featured_video: Лучшее видео
+embed_video_url: Embeded URL видео
+profile_picture: Профиль Фото
+cars: Автомобили
+car: Автомобиль
+manufacturers: Производители
+car_type: Тип автомобиля
+car_manufacturer: Производитель автомобилей
+car_model: Модель автомобиля
+year: Год
+mileage: Пробег
+condition: состояние
+specifications: Технические характеристики
+dimensions: Размеры
+reg_no: Регистрационный номер
+engine_size: Двигатель Размер
+engine_type: Тип двигателя
+exterior_color: Цвет кузова
+interior_color: Цвет салона
+fuel_type: Тип топлива
+safety_rating: Безопасность Рейтинг
+standard_seating: Стандартный Гостиный
+steering_type: Тип руля
+height: Высота
+width: ширина
+length: Длина
+wheelbase: колесная база
+track_rear: Трек сзади
+track_front: Трек спереди
+ground_clearance: Дорожный просвет
+manufacturer: Производитель
+body_type: Тип кузова
+featured_cars: Рекомендуемые Автомобили
+recent_cars: Последние Автомобили
+select_manufacturer: Выберите производителя
+select_model: Выберите модель
+price_range: Диапазон цен
+select_type: Выберите тип
+model_year: Модель Год
+filter_vehicles: Фильтр Транспорт
+no_cars_found: Нет Автомобили не найдены
+dealers: Дилеры
+all_dealers: Все дилеры
+all_cars: Все автомобили
+top_dealers: Лучшие дилеры
+top_cars: Лучшие автомобили
+dealer_cars: Дилерские Автомобили
+dealer_location: Дилер Расположение
+dealer: дилер
+model: Модель
+zip_code: Почтовый индекс
+transmission: Коробка передач
+tags: Теги
+no_dealers_found: Нет Дилеры не найдено
+dealer_vehicles: дилер автомобилей
+result: Результат
+dealer_not_found: Дилер не найден
+payment_finish_title: Оплата Полная
+payment_renew_title: Оплата Полная
+payment_finish_text: Ваш платеж будет завершен. Как только мы получили подтверждение от PayPal ваш аккаунт будет активирован
+payment_renew_text: Ваш платеж будет завершен. Как только мы получили подтверждение от PayPal ваш счет будет обновлен
+payment_cancel_title: Оплата Отменить
+payment_cancel_text: Ваш платеж будет отменен
+feature_payment_finish: Ваш платеж будет завершен. Как только мы получим подтверждение от PayPal, ваше имущество будет признакам.
+feature_payment_cancel: Ваш платеж будет отменен.
+payment_notification: Вы собираетесь совершить платеж. Письмо с отправляется на ваш электронный адрес. Вы можете вернуться к этому шагу в любое время с помощью ссылки на эту электронную почту.
+type_filers: Фильтры типа
+view_listing: Просмотреть список
+car_added_successfully: Автомобиль успешно добавлен
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+other_info: Другая информация
+basic_info: Основная информация
+contact_subject: Контактное лицо Тема
+dealer_panel: Дилер Панель
+list_your_car: Список Ваш Автомобиль
+share: Доля
+search: Поиск
+all_email_to_dealer: Вся электронная почта дилерским
+embed_preview: Вставить изображение
+car_brochure: Брошюра автомобиля
+pages: Страницы
+post_not_found: Нет Сообщение найдено
+blog: Блог
+news: Новости
+article: Статья
+change_package: Изменение пакета
+bi_payment_cancel_title: Оплата Отменено
+mileage_range: Диапазон Пробег
+select_transmission_type: Выбор коробки передач
+select_car_condition: Выберите условие
+enter_above_text: Введите Приведенный выше текст
+dt_first: Во-первых
+dt_last: Последний
+dt_next: Следующий
+dt_prev: Предыдущая
+dt_no_data: Нет доступных данных в таблице
+dt_show_empty: Показаны с 0 по 0 из 0 записей
+dt_no_match: Нет соответствующих записей найдено
+dt_search: Поиск
+dt_processing: Обработка ...
+dt_loading: Загрузка ...
+dt_info: Показаны _START_ для _END_ записей _TOTAL_
+dt_filter_info: (фильтруют от общего количества записей _MAX_)
+dt_show_entries: Показать записи _MENU_
+days: Дни
+posts: Сообщения
+take_package: Принять пакет
+selected_package: Выбранный пакет
+email: Электронная почта
+password:
+confirm_password: Подтвердите пароль
+i_have_read: Я прочитал
+terms_conditon: Правила и условия
+signup_with_social_accounts: SIGNUP с социальными счетами
+profile: профиля
+map_api_key: ключ апи Gmap
+show_state_province: Показать штат / провинцию
+cookie_policy: Политика Cookie
+cookie_policy_alert: Этот сайт использует куки-файлы. Продолжая использовать этот сайт, вы соглашаетесь на использование нами куки.
+read_more: Подробнее
+i_agree: Я согласен
+car_make: Марка
+ask_for_price: Спросить цену
+total_view: Totalview

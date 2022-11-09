@@ -1,0 +1,24 @@
+.owl-carousel .owl-item{
+	float: right !important;
+}
+.switcher{
+	float: left !important;
+}
+.view-more:before{
+	margin-right: -50% !important;
+}
+.rtl-right{
+	float: right !important;
+}
+.rtl-left{
+	float: left !important;
+}
+.navbar-header{
+	float: right !important;
+}
+.navbar-nav > li{
+	float: right !important;
+}
+.pull-right{
+	float: left !important;
+}

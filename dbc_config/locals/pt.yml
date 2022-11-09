@@ -1,0 +1,183 @@
+---
+condition_new: Novo
+condition_used: Usado
+condition_pre_owned: Certified Pre Owned
+condition_recondition: Recondicionar
+condition_other: Other
+condition_sold: Vendido
+condition_available: Disponível
+sign_in: Entrar
+sign_up: Sign Up
+admin_panel: Painel de Administração
+logout: Sair
+advanced_search: Pesquisa Avançada
+home: Início
+about: Sobre
+contact: Contato
+plain_search: Pesquisa Plain
+ignore_this_section: Ignorar esta secção
+location_search: Local Pesquisa
+country: País
+state_province: Estado / Província
+city: Cidade
+price: Preço
+phone:
+first_name:Primeiro NomePrimeiro Nome
+last_name: Sobrenome
+company_name: Nome da Empresa
+register: Registar
+type: Tipo
+details: Detalhes
+view_all: Ver Todos
+order_by: Ordem Por
+none: Nenhum
+terms_and_conditions: Termos e Confition
+reg_success_message: O seu registro de conta é bem sucedida. Um e-mail foi enviado para o seu e-mail. Por favor, siga esse e-mail para activar as suas account.Thanks
+limit: Limite
+usage: Uso
+recover: Recuperar
+oops: Oops, página não encontrada
+share_this: Share This
+status: Estado
+description: Descrição
+location_map: Mapa de localização
+image_gallery: Galeria de Imagens
+summary: Resumo
+overview: Visão geral
+address: Endereço
+message: Mensagem
+username: Nome de usuário
+about_me: Sobre Mim
+type_filters: Tipo de Filtros
+email_subject: Email Assunto
+all: ALL
+deleted: Deleted
+contact_us: Fale Conosco
+active: Ativo
+pending: Pendente
+reported: Relatado
+featured_video: Vídeo em Destaque
+embed_video_url: Embeded Vídeo Url
+profile_picture: Profile Picture
+cars: Carros
+car: Carro
+manufacturers: Fabricantes
+car_type: Tipo de carro
+car_manufacturer: Carro Fabricante
+car_model: Model Car
+year: Ano
+mileage: Mileage
+condition: Estado
+specifications: Especificações
+dimensions: Dimensões
+reg_no: Registo No.
+engine_size: Tamanho do motor
+engine_type: Tipo de motor
+exterior_color: Cor Exterior
+interior_color: Cor Interior
+fuel_type: Combustível
+safety_rating: Safety Rating
+standard_seating: Assento padrão
+steering_type: Tipo de Steering
+height: Altura
+width: Largura
+length: Comprimento
+wheelbase: Distância entre eixos
+track_rear: Pista traseira
+track_front: Eixo frente
+ground_clearance: Afastamento à terra
+manufacturer: Fabricante
+body_type: Tipo de corpo
+featured_cars: Carros em destaque
+recent_cars: Carros recentes
+select_manufacturer: Selecione Fabricante
+select_model: Select Model
+price_range: Preço
+select_type: Selecionar tipo
+model_year: Modelo Ano
+filter_vehicles: Veículos Filtro
+no_cars_found: Não há carros encontrados
+dealers: Dealers
+all_dealers: Todos os Negociantes
+all_cars: todos os carros
+top_dealers: Topo Dealers
+top_cars: Melhores Carros
+dealer_cars: Concessionário Cars
+dealer_location: Revendedor Local
+dealer:
+model: Modelo
+zip_code: CEP
+transmission: Transmissão
+tags: Etiquetas
+no_dealers_found: Não Dealers Encontrado
+dealer_vehicles: Concessionário Veículos
+result:
+dealer_not_found: Revendedor não encontrado
+payment_finish_title: O pagamento completo
+payment_renew_title: O pagamento completo
+payment_finish_text: Seu pagamento está completo. Assim que recebi a confirmação de paypal a sua conta será ativada
+payment_renew_text: Seu pagamento está completo. Assim que recebi a confirmação de paypal a sua conta será renovada
+payment_cancel_title: Pagamento Anular
+payment_cancel_text: O pagamento é cancelado
+feature_payment_finish: Seu pagamento está completo. Assim que receber a confirmação de paypal, sua propriedade será apresentado.
+feature_payment_cancel: O pagamento é cancelado.
+payment_notification: Você está indo para fazer um pagamento. Um e-mail é enviado para o seu e-mail. Você pode voltar para esta etapa a qualquer momento a partir do link no e-mail.
+type_filers: Tipo de Filtros
+view_listing: Visualizar site
+car_added_successfully: Carro Adicionado com sucesso
+email_tracker: Rastreador E-mail
+bulk_email: Bulk Email
+other_info: Mais Info
+basic_info: Informação Básica
+contact_subject: contato Assunto
+dealer_panel: Painel de Revendedor
+list_your_car: Lista de seu carro
+share: Compartilhar
+search: Pesquisa
+all_email_to_dealer: All-mail para concessionário
+embed_preview: Incorporado Pré-Visualização
+car_brochure: Folheto Car
+pages: Páginas
+post_not_found: Nenhum post encontrado
+blog:
+news: Notícias
+article: artigo
+change_package: Mudança Package
+bi_payment_cancel_title: Pagamento Cancelado
+mileage_range: Faixa Mileage
+select_transmission_type: Select Transmission
+select_car_condition: Selecione Estado
+enter_above_text: Digite texto acima
+dt_first: First
+dt_last: Last
+dt_next: Next
+dt_prev: Anterior
+dt_no_data: Não existem dados disponíveis na tabela
+dt_show_empty: Mostrando 0-0 de 0 entradas
+dt_no_match: Nenhum registro correspondente encontrado
+dt_search: Pesquisa
+dt_processing: Processing ...
+dt_loading: Carregando ...
+dt_info: Mostrando _START_ para _END_ de entradas _TOTAL_
+dt_filter_info: (filtrado a partir das entradas totais _MAX_)
+dt_show_entries: Mostrar Artigos _MENU_
+days: Dias
+posts: Mensagens
+take_package: Tome pacote
+selected_package: Selected pacote
+email: E-mail
+password: Password
+confirm_password: Confirmar password
+i_have_read: Eu li o
+terms_conditon: Termos e condições
+signup_with_social_accounts: inscrição com contas sociais
+profile: Profile
+map_api_key: chave de API Gmap
+show_state_province: Mostrar estado / província
+cookie_policy: Política de Cookies
+cookie_policy_alert: Este site usa cookies. Ao continuar a utilizar este site, você concorda com o uso de cookies.
+read_more: Leia mais
+i_agree: Concordo
+car_make: Faça
+ask_for_price: solicitar o preço
+total_view: TotalView
